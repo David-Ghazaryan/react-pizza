@@ -1,0 +1,40 @@
+{
+    "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "/src/assets/cheese-burger.png",
+      "title": "Cheese-Burger Pizza",
+      "types": [0, 1],
+      "size": [26, 30, 40],
+      "price": 9.99,
+      "category": 0
+    },
+    {
+      "id": 1,
+      "imageUrl": "/src/assets/cheese.png",
+      "title": "Cheese Pizza",
+      "types": [1],
+      "size": [26, 30],
+      "price": 12.99,
+      "category": 1
+    },
+    {
+      "id": 2,
+      "imageUrl": "/src/assets/shrimp.png",
+      "title": "Shrimp more Asian",
+      "types": [0, 1],
+      "size": [ 30, 40],
+      "price": 10.99,
+      "category": 2
+    },
+    {
+      "id": 3,
+      "imageUrl": "/src/assets/chicken.png",
+      "title": "Cheese Chicken",
+      "types": [0],
+      "size": [26, 30, 40],
+      "price": 10.99,
+      "category": 3
+    }
+  ]
+}
